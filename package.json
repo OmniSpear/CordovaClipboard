@@ -1,0 +1,19 @@
+{
+  "name": "omnispear-clipboard",
+  "version": "1.0.0",
+  "description": "Clipboard =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmniSpear/CordovaClipboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmniSpear/CordovaClipboard/issues"
+  },
+  "homepage": "https://github.com/OmniSpear/CordovaClipboard#readme"
+}
